@@ -24,3 +24,4 @@ This is a simple **text-based Hangman game** written in Python. The player has t
 ```bash
 python hangman.py
 
+![Screenshot 2025-07-07 192556](https://github.com/user-attachments/assets/0ee72484-51ea-4d05-93c3-cd9d7b62e66d)
